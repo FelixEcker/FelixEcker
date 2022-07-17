@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Felix / Bertrahm </h1>
 
-<!--
-**FelixEcker/FelixEcker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,py,md,linux,idea,vim,git" width="55%" height="55%"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, im Felix / Bertrahm, im a self taught Java & Python programmer and in an apprentice ship as a Programmer. I primarly use GNU/Linux. I like to work on small side projects like a Program to find [Strings in a large binary file](https://www.github.com/FelixEcker/DataRescue), which I used to recover passwords from a broken partition. I also attempt to make games from time to time.
+
+<!-- want to add more but cant think of shit -->
