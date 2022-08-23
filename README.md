@@ -4,7 +4,7 @@
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,py,md,linux,idea,vim,git" width="55%" height="55%"/>   
   </a>
-  <a href="https://www.freepascal.org/">
+  <a href="https://www.freepascal.org/" width="55%" height="55%">
       <img src="https://www.freepascal.org/pic/logo.gif" />
   </a>
 </div>
