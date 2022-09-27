@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,py,html,css,md" width="55%" height="55%" />
     <img src="https://skillicons.dev/icons?i=linux,idea,vim,vscode,git" width="55%" height="55%" /> <br />
-    <img src="https://www.freepascal.org/pic/logo.gif" width="16%" height="16%" /> <br />
+    <a href="https://freepascal.org"><img src="https://www.freepascal.org/pic/logo.gif" width="16%" height="16%" /></a> <br />
 </div>
 
 ---
