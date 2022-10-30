@@ -13,7 +13,7 @@ Hi, im Felix / Bertrahm, im a self taught Java & Python programmer and in an app
 ---
 
 <div align="center">
-  <a href="https://www.esolangs.org/">
+  <a href="https://esolangs.org/wiki/User:Bertrahm">
     <img src="https://esolangs.org/w/images/c/c9/Logo.png" width="12%" />
   </a>
   <a href="https://soundcloud.com/german_substance">
