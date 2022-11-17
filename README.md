@@ -8,7 +8,8 @@
 
 ---
 
-Hi, im Felix / Bertrahm, im a self taught Java & Python programmer and in an apprentice ship as a Programmer using Pascal/Delphi. I primarly use GNU/Linux. I like to work on small side projects like [pasfetch](https://www.github.com/FelixEcker/pasfetch), a System Fetcher written in Pascal or a Program to find [Strings in a large binary file](https://www.github.com/FelixEcker/DataRescue), which I used to recover passwords from a broken partition. I also like making Esolangs when I can think of a new one, here is my [esowiki profile](https://esolangs.org/wiki/User:Bertrahm).
+Hi, im Felix / Bertrahm, im a (primarly) Pascal programmer and in an apprentice ship as a Programmer using Delphi. I like to work on small side projects like [pasfetch](https://www.github.com/FelixEcker/pasfetch), a System Fetcher written in Pascal or a [sad](https://www.github.com/FelixEcker/sad), which is a 
+custom document format. I also like making Esolangs when I can think of a new one, here is my [esowiki profile](https://esolangs.org/wiki/User:Bertrahm).
 
 ---
 
@@ -22,7 +23,7 @@ Hi, im Felix / Bertrahm, im a self taught Java & Python programmer and in an app
 </div>
 
 <h6 align="center">
-    <em> Hab ein Pferd geseh'n, mitten in der Nacht. Schatten weiter vorne, hab ich gelacht </em>
+    <em> Another day another Dollar, am I right Mr. Freeman? </em>
 </h7>
 
 <!-- want to add more but cant think of shit -->
