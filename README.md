@@ -1,4 +1,4 @@
-<h1 align="center"> Felix / Bertrahm </h1>
+<h1 align="center"> Marie / Bertrahm </h1>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,py,html,css,md" width="55%" height="55%" />
