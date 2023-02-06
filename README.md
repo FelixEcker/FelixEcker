@@ -1,7 +1,7 @@
 <!--<h1 align="center"> Marie / Bertrahm </h1>-->
-<center><img src="img/banner.gif" /></center>
 
 <div align="center">
+    <img src="img/banner.gif" />
     <img src="https://skillicons.dev/icons?i=java,py,bash,html,md" width="55%" height="55%" />
     <img src="https://skillicons.dev/icons?i=linux,idea,vim,vscode,git" width="55%" height="55%" /> <br />
     <a href="https://freepascal.org"><img src="https://www.freepascal.org/pic/logo.gif" width="16%" height="16%" /></a> <br />
