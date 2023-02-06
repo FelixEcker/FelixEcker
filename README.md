@@ -1,14 +1,14 @@
 <h1 align="center"> Marie / Bertrahm </h1>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,md" width="55%" height="55%" />
+    <img src="https://skillicons.dev/icons?i=java,py,bash,html,md" width="55%" height="55%" />
     <img src="https://skillicons.dev/icons?i=linux,idea,vim,vscode,git" width="55%" height="55%" /> <br />
     <a href="https://freepascal.org"><img src="https://www.freepascal.org/pic/logo.gif" width="16%" height="16%" /></a> <br />
 </div>
 
 ---
 
-Hi, im Felix / Bertrahm, im a (primarly) Pascal programmer and in an apprentice ship as a Programmer using Delphi. I like to work on small side projects like [pasfetch](https://www.github.com/FelixEcker/pasfetch), a System Fetcher written in Pascal or [sad](https://www.github.com/FelixEcker/sad), which is a 
+Hi, im Marie / Bertrahm, im a (primarly) Pascal programmer and in an apprentice ship as a Programmer using Delphi. I like to work on small side projects like [pasfetch](https://www.github.com/FelixEcker/pasfetch), a System Fetcher written in Pascal or [sad](https://www.github.com/FelixEcker/sad), which is a 
 custom document format. I also like making Esolangs when I can think of a new one, here is my [esowiki profile](https://esolangs.org/wiki/User:Bertrahm).
 
 ---
