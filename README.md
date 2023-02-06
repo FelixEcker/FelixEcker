@@ -1,4 +1,5 @@
-<h1 align="center"> Marie / Bertrahm </h1>
+<!--<h1 align="center"> Marie / Bertrahm </h1>-->
+<center><img src="img/banner.gif" /></center>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,py,bash,html,md" width="55%" height="55%" />
