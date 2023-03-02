@@ -2,15 +2,13 @@
 
 <div align="center">
     <img src="img/banner.gif" />
-    <img src="https://skillicons.dev/icons?i=java,py,bash,html,md" width="55%" height="55%" />
+    <img src="https://skillicons.dev/icons?i=rust,py,bash,html,md" width="55%" height="55%" />
     <img src="https://skillicons.dev/icons?i=linux,idea,vim,vscode,git" width="55%" height="55%" /> <br />
     <a href="https://freepascal.org"><img src="https://www.freepascal.org/pic/logo.gif" width="16%" height="16%" /></a> <br />
 </div>
 
----
-
-Hi, im Marie / Bertrahm, im a (primarly) Pascal programmer and in an apprentice ship as a Programmer using Delphi. I like to work on small side projects like [pasfetch](https://www.github.com/FelixEcker/pasfetch), a System Fetcher written in Pascal or [sad](https://www.github.com/FelixEcker/sad), which is a 
-custom document format. I also like making Esolangs when I can think of a new one, here is my [esowiki profile](https://esolangs.org/wiki/User:Bertrahm).
+<div align="center"> rust and pascal programmer, also really interested in demos and esolangs. <br />
+Running arch on a Thinkpad P52. </div>
 
 ---
 
@@ -24,7 +22,7 @@ custom document format. I also like making Esolangs when I can think of a new on
 </div>
 
 <h6 align="center">
-    <em> Another day another Dollar, am I right Mr. Freeman? </em>
+    <em> ich nutze arsch bei dem weg </em>
 </h7>
 
 <!-- want to add more but cant think of shit -->
