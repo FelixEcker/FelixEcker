@@ -13,6 +13,12 @@ Running arch on a Thinkpad P52. </div>
 ---
 
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=FelixEcker&show_icons=true&count_private=true&theme=transparent" />
+</div>
+
+---
+
+<div align="center">
   <a href="https://esolangs.org/wiki/User:Bertrahm">
     <img src="https://esolangs.org/w/images/c/c9/Logo.png" width="12%" />
   </a>
