@@ -2,8 +2,8 @@
 
 <div align="center">
     <img src="img/banner.gif" />
-    <img src="https://skillicons.dev/icons?i=rust,py,bash,html,md" width="55%" height="55%" />
-    <img src="https://skillicons.dev/icons?i=linux,idea,vim,vscode,git" width="55%" height="55%" /> <br />
+    <img src="https://skillicons.dev/icons?i=rust,c,py,md,html" width="55%" height="55%" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,vim,vscode" width="55%" height="55%" /> <br />
     <a href="https://freepascal.org"><img src="https://www.freepascal.org/pic/logo.gif" width="16%" height="16%" /></a> <br />
 </div>
 
@@ -29,6 +29,6 @@ Running arch on a Thinkpad P52. </div>
 
 <h6 align="center">
     <em> ich nutze arsch bei dem weg </em>
-</h7>
+</h6>
 
 <!-- want to add more but cant think of shit -->
