@@ -7,8 +7,6 @@
     <a href="https://freepascal.org"><img src="https://www.freepascal.org/pic/logo.gif" width="16%" height="16%" /></a> <br />
 </div>
 
-<div align="center"> rust and pascal programmer, also really interested in demos and esolangs. <br /> </div>
-
 ---
 
 <div align="center">
